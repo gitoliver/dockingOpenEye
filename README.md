@@ -1,7 +1,7 @@
 # Scripts for Docking with OpenEye
 
 ## OpenEye Strategy
-Round 1: Do a quick and dirty screening of many compounds using FRED. Default charges, max 25 rotamers, FRED. Will screen many sites and up to 10 receptor shapes from MD, cryoEM and alphaFold.
+Round 1: Do a quick and dirty screening of many compounds using FRED. Default charges, max 25 rotamers, FRED. Will screen many sites and up to 10 receptor shapes from MD, cryoEM and alphaFold.  
 Round 2: Take the top hits for each docking site and repeat with better charges, pKa, tautomer assessments.
 
 ## Steps
